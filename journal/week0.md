@@ -6,20 +6,20 @@
 - [x] **Watched Chirag's Week 0 - Spend Considerations**
 - [x] **Watched Ashish's Week 0 - Security Considerations**
 - [x] **Recreate Conceptual Diagram in Lucid Charts or on a Napkin**
-![Cruddur Conceptual Diagram](assets/W1_RH_Cruddur_Conceptual_Diagram.jpeg "Cruddur Conceptual Diagram")
+  ![Cruddur Conceptual Diagram](assets/W1_RH_Cruddur_Conceptual_Diagram.jpeg "Cruddur Conceptual Diagram")
 - [ ] **Recreate Logical Architectual Diagram in Lucid Charts**<br>
 - [x] **Create an Admin User**<br>
-![Create an Admin User](assets/W1_RH_CreateAnAdminUser.png "Create and Admin User")
+  ![Create an Admin User](assets/W1_RH_CreateAnAdminUser.png "Create and Admin User")
 - [x] **Use CloudShell**<br>
-![Use CloudShell](assets/W1_RH_UseCloudShell.png "Use CloudShell")
+  ![Use CloudShell](assets/W1_RH_UseCloudShell.png "Use CloudShell")
 - [x] **Generate AWS Credentials**<br>
-![Generate AWS Credentials](assets/W1_RH_GenerateAWSCredentials.png "Generate AWS Credentials")
+  ![Generate AWS Credentials](assets/W1_RH_GenerateAWSCredentials.png "Generate AWS Credentials")
 - [x] **Installed AWS CLI**<br>
-![Installed AWS CLI](assets/W1_RH_InstalledAWSCli.png "Installed AWS CLI")
+  ![Installed AWS CLI](assets/W1_RH_InstalledAWSCli.png "Installed AWS CLI")
 - [x] **Create a Billing Alarm**<br>
-- Followed the documentation here -> https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
-- Created 3 billing alarms
-![BillingAlarm](assets/W1_RH_CreateBillingAlarm.png "BillingAlarm")
+  - Followed the documentation here -> https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
+  - Created 3 billing alarms
+  ![BillingAlarm](assets/W1_RH_CreateBillingAlarm.png "BillingAlarm")
 - [x] **Create a Budget**<br>
   - Created a monthly budget of $30. An amount that I've comfortably paid for over the past year for experiments.
   ![Budget](assets/W1_RH_CreateABudget.png "Budget")

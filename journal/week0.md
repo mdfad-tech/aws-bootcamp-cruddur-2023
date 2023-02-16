@@ -52,6 +52,7 @@
   ![aws-vault](assets/W1_HC_use_aws-vault_for_programmatic_access_awscli.png "aws-vault")
 - [x] **Created addtional Service Control Policies as account guardrails**<br>
   - Implemented some of examples provided by AWS in the documentation here -> https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html
+  - Attach these policies to my AWS accounts in my organizations.
   - Did this so as to prevent any unecessary resources being build in regions that I do not use.
   ![SCPs](assets/W1_HC_Created_additional_SCPs_as_account_guardrails.png "SCPs")
 ---

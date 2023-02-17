@@ -2,8 +2,9 @@
 
 ---
 #### Notes
-    - Will be doing this entire bootcamp locally on my personal macbook
+    - Will be doing this week0 locally on my personal macbook
     - Redacted a portion of the AWS Account number for security reasons
+    - Need to figure out how to use gitpod properly as Week 1 onwards seems to have it as a requirement
   
 ### [Required HomeWork]
 - [x] **Watched Week 0 - Live Streamed Video**
